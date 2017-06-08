@@ -3,8 +3,6 @@ Custom Adapter Sample App for tracking weight
 
 This app demonstrates how to create and use a ListView and custom ArrayAdapter (called WeightMesureAdapter) to display a custom list item view that contains an ImageView and two TextViews.
 
-![App Screenshot]()
-
 
 Pre-requisites
 --------------
